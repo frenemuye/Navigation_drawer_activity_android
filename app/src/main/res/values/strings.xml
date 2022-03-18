@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ejemplo Navigation drawer activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Titulo debajo de logo</string>
+    <string name="nav_header_subtitle">Texto descriptivo y breve que hace referencia o alusión al titulo (entre mas largo no le quitara espacio a las opciones de la barra lateral izquierda) este nav es solo para el logo, el titulo y la descripción</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
